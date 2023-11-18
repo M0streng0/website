@@ -1,0 +1,12 @@
+{{ $images := split .Inner "\n" }}
+<div class="image-gallery">
+    {{ range $images }}
+        {{ with . }}
+            <div class="gallery-item">
+                <a href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ . | safeURL }}" alt="{{ . }}" />
+                </a>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
