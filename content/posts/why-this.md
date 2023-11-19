@@ -3,8 +3,8 @@ author:
   name: "Henrique Oliveira"
 title: Why create a website?
 date: 2023-11-19
-type: [posts"]
-categories: ["Aleatório"]
+type: ["posts"]
+categories: ["Random"]
 tags:
   - why
 draft: false
