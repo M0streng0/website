@@ -1,10 +1,10 @@
 {{ $images := split .Inner "\n" }}
 <div class="image-gallery">
     {{ range $images }}
-        {{ with . }}
-            {{ $parts := split . "|" }}
-            {{ $imgSrc := index $parts 0 | trim " " }}
-            {{ $imgAlt := index $parts 1 | default $imgSrc | trim " " }}
+        {{ $parts := split . "|" }}
+        {{ with index $parts 0 }}
+            {{ $imgSrc := trim . " " }}
+            {{ $imgAlt := index $parts 1 | default "" }}
 
             <div class="gallery-item">
                 <a href="{{ $imgSrc | safeURL }}" target="_blank" rel="noopener noreferrer">
