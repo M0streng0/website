@@ -6,11 +6,9 @@
             {{ $imgSrc := trim . " " }}
             {{ $imgAlt := index $parts 1 | default "" }}
 
-            <div class="gallery-item">
-                <a href="{{ $imgSrc | safeURL }}" target="_blank" rel="noopener noreferrer">
-                    <img src="{{ $imgSrc | safeURL }}" alt="{{ $imgAlt }}" />
-                </a>
-            </div>
+            <a href="{{ $imgSrc | safeURL }}" target="_blank" rel="noopener noreferrer">
+                <img class="gallery-item" src="{{ $imgSrc | safeURL }}" alt="{{ $imgAlt }}" />
+            </a>
         {{ end }}
     {{ end }}
 </div>
