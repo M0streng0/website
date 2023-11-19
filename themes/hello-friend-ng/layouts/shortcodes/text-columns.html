@@ -1,0 +1,8 @@
+{{ $columns := split .Inner "\n\n" }}
+<div class="text-columns">
+    {{ range $columns }}
+        <div class="column">
+            {{ . | markdownify }}
+        </div>
+    {{ end }}
+</div>

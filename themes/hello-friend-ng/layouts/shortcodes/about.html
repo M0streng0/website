@@ -1,0 +1,11 @@
+{{ $image := .Get "image" }}
+{{ $text := .Inner | markdownify }}
+
+<div class="about-section">
+    <div class="about-text">
+        {{ $text }}
+    </div>
+    <div class="about-image">
+        <img src="{{ $image | safeURL }}" alt="Image of Me" />
+    </div>
+</div>
