@@ -9,7 +9,7 @@ tags:
   - why
 draft: false
 ---
-{{< about image="/images/posts/2023/11-2023/m0streng0/fernando-pessoa.webp" >}}
+{{< about image="/images/posts/2023/11-2023/m0streng0/fernando-pessoa.webp" alt="Painting of Fernando Pessoa by Almada Negreiros" >}}
 The pseudonym _m0streng0_ comes from the name _mostrengo_, a poem written by **Fernando Pessoa**, one of the most important Portuguese poets of the 20th century. This poem is part of the work "_Mensagem_", which was published in 1934.
 
 The "_mostrengo_" is a legendary creature that symbolizes the dangers and challenges faced by Portugal throughout its history. The poem describes the creature as something terrible and frightening that lurks, representing the external threats that the country has had to face over the centuries.
@@ -96,9 +96,9 @@ Mensagem. Fernando Pessoa.
 Here are some representations of the mostrengo:
 
 {{< gallery >}}
-/images/posts/2023/11-2023/m0streng0/mostrengo-statue.webp
-/images/posts/2023/11-2023/m0streng0/mostrengo-sea-2.webp
-/images/posts/2023/11-2023/m0streng0/mostrengo-tiles.webp
+/images/posts/2023/11-2023/m0streng0/mostrengo-statue.webp | A statue representation of Mostrengo
+/images/posts/2023/11-2023/m0streng0/mostrengo-sea-2.webp | A painting of Mostrengo threatening portuguese ships
+/images/posts/2023/11-2023/m0streng0/mostrengo-tiles.webp | Typical blue portuguese tiles with a representation of Mostrengo
 {{< /gallery >}}
 
 {{< image src="/images/posts/2023/11-2023/m0streng0/mostrengo-sea.webp" alt="A monster in the middle of the ocean - mostrengo" position="center" style="border-radius: 8px; margin-top: 20px;" >}}

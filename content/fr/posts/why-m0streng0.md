@@ -9,7 +9,7 @@ tags:
   - pourquoi
 draft: false
 ---
-{{< about image="/images/posts/2023/11-2023/m0streng0/fernando-pessoa.webp" >}}
+{{< about image="/images/posts/2023/11-2023/m0streng0/fernando-pessoa.webp" alt="Painting of Fernando Pessoa by Almada Negreiros" >}}
 Le pseudonyme _m0streng0_ provient du nom _mostrengo_, un poème écrit par **Fernando Pessoa**, l'un des plus importants poètes portugais du 20e siècle. Ce poème fait partie de l'œuvre "_Mensagem_", publiée en 1934.
 
 Le "_mostrengo_" est une créature légendaire qui symbolise les dangers et les défis auxquels le Portugal a dû faire face tout au long de son histoire. Le poème décrit la créature comme quelque chose de terrible et d'effrayant qui rôde, représentant les menaces extérieures auxquelles le pays a dû faire face au cours des siècles.
@@ -95,9 +95,9 @@ Mensagem. Fernando Pessoa.
 Voici quelques représentations du mostrengo :
 
 {{< gallery >}}
-/images/posts/2023/11-2023/m0streng0/mostrengo-statue.webp
-/images/posts/2023/11-2023/m0streng0/mostrengo-sea-2.webp
-/images/posts/2023/11-2023/m0streng0/mostrengo-tiles.webp
+/images/posts/2023/11-2023/m0streng0/mostrengo-statue.webp | Une statue représentant Mostrengo
+/images/posts/2023/11-2023/m0streng0/mostrengo-sea-2.webp | Peinture de Mostrengo menaçant les navires portugais
+/images/posts/2023/11-2023/m0streng0/mostrengo-tiles.webp | Carreaux bleus typiquement portugais avec une représentation de Mostrengo
 {{< /gallery >}}
 
 {{< image src="/images/posts/2023/11-2023/m0streng0/mostrengo-sea.webp" alt="Un mostrengo au milieu de l'océan - mostrengo" position="center" style="border-radius: 8px; margin-top: 20px;" >}}

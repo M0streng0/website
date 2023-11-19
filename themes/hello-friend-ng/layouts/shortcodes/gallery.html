@@ -2,9 +2,13 @@
 <div class="image-gallery">
     {{ range $images }}
         {{ with . }}
+            {{ $parts := split . "|" }}
+            {{ $imgSrc := index $parts 0 | trim " " }}
+            {{ $imgAlt := index $parts 1 | default $imgSrc | trim " " }}
+
             <div class="gallery-item">
-                <a href="{{ . | safeURL }}" target="_blank" rel="noopener noreferrer">
-                    <img src="{{ . | safeURL }}" alt="{{ . }}" />
+                <a href="{{ $imgSrc | safeURL }}" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ $imgSrc | safeURL }}" alt="{{ $imgAlt }}" />
                 </a>
             </div>
         {{ end }}

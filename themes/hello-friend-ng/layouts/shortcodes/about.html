@@ -1,11 +1,12 @@
 {{ $image := .Get "image" }}
 {{ $text := .Inner | markdownify }}
+{{ $alt := .Get "alt" | default "No alt text" }}
 
 <div class="about-section">
     <div class="about-text">
         {{ $text }}
     </div>
     <div class="about-image">
-        <img src="{{ $image | safeURL }}" alt="Image of Me" />
+        <img src="{{ $image | safeURL }}" alt="{{ $alt }}" />
     </div>
 </div>

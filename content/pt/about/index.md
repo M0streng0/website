@@ -8,7 +8,7 @@ draft: false
 ---
 ## Sou o Henrique Oliveira
 
-{{< about image="/images/about.webp" >}}
+{{< about image="/images/about.webp" alt="Imagem de mim, a ler um livro (Altered Carbon, de Richard K. Morgan), enquanto ouço música através dos meus auscultadores Sony." >}}
 Um _estudante_, _programador_, e _hacker_.
 
 Mas, acima de tudo, sou apenas um _humano_ curioso que abraça o mundo digital.
