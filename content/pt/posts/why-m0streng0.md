@@ -69,8 +69,8 @@ Eis algumas representações do mostrengo:
 
 Certo, têm razão... Isto até agora foi só história por detrás do nome _mostrengo_ e não o porquê deste nome.
 
-Na disciplina de Português estuda-se as obras de Fernando Pessoa, incluindo o poema _O Mostrengo_. E a verdade é que foi precisamente nessa altura que surgiu o pesudónimo _mostrengo_, que mais tarde se tornou _m0streng0_.
+Na disciplina de Português estuda-se as obras de Fernando Pessoa, incluindo o poema _O Mostrengo_. E a verdade é que foi precisamente nessa altura que surgiu o pseudónimo _mostrengo_, que mais tarde se tornou _m0streng0_.
 
-Eu e o meu melhor amigo criamos testar um novo jogo de Batalha Naval no nossos telemóveis, e era necessário escolher um pseudónimo, e instintivamente escolhi **_mostrengo_** e o meu amigo **_adamastor_** (o mesmo monstro marítimo, mas de outro autor - Luís de Camões, na obra _Os Lusíadas_ - 1572).
+Eu e o meu melhor amigo queríamos testar um novo jogo de Batalha Naval nos nossos telemóveis, e era necessário escolher um pseudónimo, e instintivamente escolhi **_mostrengo_** e o meu amigo **_adamastor_** (o mesmo monstro marítimo, mas de outro autor - Luís de Camões, na obra _Os Lusíadas_ - 1572).
 
 E depois desse episódio, mantive o pseudónimo até aos dias de hoje... _O meu amigo, infelizmente_ :rofl: _não seguiu o mesmo caminho!_
