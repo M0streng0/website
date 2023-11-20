@@ -123,14 +123,6 @@
 
     {{ partial "pagination-single.html" . }}
 
-    {{ if .Site.DisqusShortname }}
-      {{ if not (eq .Params.Comments "false") }}
-        <div id="comments">
-          {{ template "_internal/disqus.html" . }}
-        </div>
-      {{ end }}
-    {{ end }}
-
     {{ if .Site.Params.utterances }}
       <script src="https://utteranc.es/client.js"
         repo="m0streng0/website"
