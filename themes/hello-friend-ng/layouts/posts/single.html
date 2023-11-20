@@ -60,6 +60,7 @@
 
     <hr />
 
+
     <div class="post-info">
       {{ partial "tags.html" .Params.tags }}
       {{ partial "categories.html" . }}
@@ -130,10 +131,14 @@
       {{ end }}
     {{ end }}
 
-    {{ if .Site.Params.Commento.Url }}
-      <script defer src={{ .Site.Params.Commento.Url }}></script>
-      <div id="commento"></div>
+    {{ if .Site.Params.utterances }}
+      <script src="https://utteranc.es/client.js"
+        repo="m0streng0/website"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+      </script>
     {{ end }}
-
   </main>
 {{ end }}

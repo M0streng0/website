@@ -80,9 +80,8 @@ disableHugoGeneratorInject = false
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .post-content.
 
-  # Integrate Plausible.io
-  # plausibleDataDomain = 'test.com'
-  # plausibleScriptSource = 'https://plausible.io/js/script.js'
+  # Enable Comments
+  utterances = true
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
