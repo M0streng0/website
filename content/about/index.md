@@ -65,15 +65,15 @@ I love learning new things, I'm always learning something new...
 ## Projects, Competitions et Certificates
 
 ### Projects
-**CanSat (ESERO / ESA)** - \[2023\] - I helped organize my school's application for the European CanSat project. [Video - in Portuguese](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
+- **CanSat (ESERO / ESA)** - \[2023\] - I helped organize my school's application for the European CanSat project. [Video - in Portuguese](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
 
 ### Competitions
-**ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representing the Portuguese team as a member, in the european CTF (Jeopardy and Attack-Defense) competition, which took place in Hamar, Norway. [ECSC 2023](https://ecsc.eu/2023-challenge)
+- **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representing the Portuguese team as a member, in the european CTF (Jeopardy and Attack-Defense) competition, which took place in Hamar, Norway. [ECSC 2023](https://ecsc.eu/2023-challenge)
 
-**TOPAS LX** - \[May 2023\] - Participation in the annual programming competition organized by the Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Rankings - in Portuguese](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
+- **TOPAS LX** - \[May 2023\] - Participation in the annual programming competition organized by the Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Rankings - in Portuguese](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
 
 ### Certificates
-**OPSWAT File Security Associate** - \[November 2022\] - I attended the OFSA course at the OPSWAT Academy. (Malware concepts - Vulnerable systems - Analysis techniques - On-line analysis). [Certificate](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
+- **OPSWAT File Security Associate** - \[November 2022\] - I attended the OFSA course at the OPSWAT Academy. (Malware concepts - Vulnerable systems - Analysis techniques - On-line analysis). [Certificate](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
 
 ## Languages
 

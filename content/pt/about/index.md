@@ -65,15 +65,15 @@ Adoro aprender coisas novas, estou sempre a aprender algo novo...
 ## Projectos, concursos e certificados
 
 ### Projectos
-**CanSat (ESERO / ESA)** - \[2023\] - Ajudei a organizar a candidatura da minha escola ao projeto europeu CanSat. [Vídeo](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
+- **CanSat (ESERO / ESA)** - \[2023\] - Ajudei a organizar a candidatura da minha escola ao projeto europeu CanSat. [Vídeo](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
 
 ### Concursos
-**ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representei a equipa portuguesa como membro na competição europeia CTF (Jeopardy and Attack-Defense), que teve lugar em Hamar, Noruega. [ECSC 2023](https://ecsc.eu/2023-challenge)
+- **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representei a equipa portuguesa como membro na competição europeia CTF (Jeopardy and Attack-Defense), que teve lugar em Hamar, Noruega. [ECSC 2023](https://ecsc.eu/2023-challenge)
 
-**TOPAS LX** - \[maio 2023\] - Participação no concurso anual de programação organizado pela Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Rankings](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
+- **TOPAS LX** - \[maio 2023\] - Participação no concurso anual de programação organizado pela Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Rankings](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
 
 ### Certificados
-**OPSWAT File Security Associate** - \[novembro 2022\] - Frequentei o curso OFSA na Academia OPSWAT. (Conceitos de malware - Sistemas vulneráveis - Técnicas de análise - Análise on-line). [Certificado](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
+- **OPSWAT File Security Associate** - \[novembro 2022\] - Frequentei o curso OFSA na Academia OPSWAT. (Conceitos de malware - Sistemas vulneráveis - Técnicas de análise - Análise on-line). [Certificado](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
 
 ## Línguas
 

@@ -30,14 +30,14 @@ Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de 
   - JavaScript
   - Un peu d'Arduino (j'aimerais essayer plus de matériel)
 
-- **Cybersécurité
+- **Cybersécurité**
   - Outils les plus utilisés (Burpsuite, Metasploit, Sqlmap...)
   - Aimer apprendre (compétences ?)
   - Quelques connaissances en réseau
   - Nombreux CTFs effectués
   - Utilisateur expérimenté de Linux
 
-- **Outils de productivité
+- **Outils de productivité**
   - Microsoft Office / Libre Office
   - AWS - Cloud
   - Cloudflare (site web hébergé ici)
@@ -65,15 +65,15 @@ J'adore apprendre de nouvelles choses, je suis toujours en train d'apprendre que
 ## Projets, Compétitions et Certificats
 
 ### Projets
-**CanSat (ESERO / ESA)** - \[2023\] - J'ai aidé à organiser la candidature de mon école pour le projet européen CanSat. [Vidéo - en portugais](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
+- **CanSat (ESERO / ESA)** - \[2023\] - J'ai aidé à organiser la candidature de mon école pour le projet européen CanSat. [Vidéo - en portugais](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
 
 ### Compétitions
-**CECA 2023** - \[2023\] - European CyberSecurity Challenge 2023 - J'ai représenté l'équipe portugaise en tant que membre de la compétition européenne CTF (Jeopardy et Attack-Defense), qui s'est déroulée à Hamar, en Norvège. [ECSC 2023](https://ecsc.eu/2023-challenge)
+- **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - J'ai représenté l'équipe portugaise en tant que membre de la compétition européenne CTF (Jeopardy et Attack-Defense), qui s'est déroulée à Hamar, en Norvège. [ECSC 2023](https://ecsc.eu/2023-challenge)
 
-**TOPAS LX** - \[Mai 2023\] - Participation au concours annuel de programmation organisé par l'Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Classement - en portugais](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
+- **TOPAS LX** - \[Mai 2023\] - Participation au concours annuel de programmation organisé par l'Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Classement - en portugais](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
 
 ### Certificats
-**OPSWAT File Security Associate** - \[novembre 2022\] - J'ai suivi le cours OFSA à l'Académie OPSWAT. (Concepts de logiciels malveillants - Systèmes vulnérables - Techniques d'analyse - Analyse en ligne). [Certificat](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
+- **OPSWAT File Security Associate** - \[novembre 2022\] - J'ai suivi le cours OFSA à l'Académie OPSWAT. (Concepts de logiciels malveillants - Systèmes vulnérables - Techniques d'analyse - Analyse en ligne). [Certificat](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
 
 ## Langues
 
