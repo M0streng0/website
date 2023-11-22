@@ -43,7 +43,7 @@ But I like to learn how to do it, so I took a theme I liked ([hello-friend-ng](h
 - I changed the colors to my preferred color palette ([Nord](https://www.nordtheme.com/))
 - I created new HTML, CSS and JS files to better achieve what I wanted! Such as:
   - Photo gallery that adapts to the size of each image.
-  - Text in columns (visible on the [About Me](https://m0streng0.com/about/) page).
+  - Text in columns (visible on the [About Me](/about/) page).
   - Added math language rendering functionality.
 
 If you're interested in my theme, you can see the files on [Github](https://github.com/M0streng0/website)

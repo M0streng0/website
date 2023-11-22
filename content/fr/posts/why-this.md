@@ -43,7 +43,7 @@ Mais j'aime apprendre à le faire, alors j'ai pris un thème que j'aimais bien (
 - J'ai changé les couleurs pour ma palette de couleurs préférée ([Nord](https://www.nordtheme.com/))
 - J'ai créé de nouveaux fichiers HTML, CSS et JS afin de mieux réaliser ce que je voulais ! Par exemple :
   - Une galerie de photos qui s'adapte à la taille de chaque image.
-  - Texte en colonnes (visible sur la page [Sur Moi](https://m0streng0.com/fr/about/)).
+  - Texte en colonnes (visible sur la page [Sur Moi](/fr/about)).
   - Ajout d'une fonctionnalité de rendu du langage mathématique.
 
 Si vous êtes intéressé par mon thème, vous pouvez voir les fichiers sur [Github](https://github.com/M0streng0/website)

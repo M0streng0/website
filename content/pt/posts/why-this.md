@@ -43,7 +43,7 @@ Mas eu gosto de aprender como fazer, por isso peguei num tema que gostei ([hello
 - Mudei as cores para a minha paleta de cores preferida ([Nord](https://www.nordtheme.com/))
 - Criei novos ficheiros HTML, CSS e JS para poder atingir melhor o que pretendia! Tais como:
   - Galeria de fotos que adapta ao tamanho de cada imagem.
-  - Texto em colunas (visível na pagina [Sobre Mim](https://m0streng0.com/pt/about/)).
+  - Texto em colunas (visível na pagina [Sobre Mim](/pt/about/)).
   - Adicionei funcionalidade de renderização de linguagem de matemática.
 
 Se tiverem interesse no meu tema, podem ver os ficheiros no [Github](https://github.com/M0streng0/website)
