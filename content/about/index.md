@@ -8,7 +8,7 @@ draft: false
 ---
 ## I'm Henrique Oliveira
 
-{{< about image="/images/about.webp" alt="Image of me, reading a book (Altered Carbon, by Richard K. Morgan), while listening to music through my Sony headphones." >}}
+{{< about image="/images/about/about.webp" alt="Image of me, reading a book (Altered Carbon, by Richard K. Morgan), while listening to music through my Sony headphones." >}}
 A _student_, _programmer_, and _hacker_.
 
 Yet, above all, I'm just a curious _human_ embracing the digital realm.
@@ -68,7 +68,7 @@ I love learning new things, I'm always learning something new...
 - **CanSat (ESERO / ESA)** - \[2023\] - I helped organize my school's application for the European CanSat project. [Video - in Portuguese](https://www.youtube.com/watch?v=ZQTJ3w4_kTc)
 
 ### Competitions
-- **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representing the Portuguese team as a member, in the european CTF (Jeopardy and Attack-Defense) competition, which took place in Hamar, Norway. [ECSC 2023](https://ecsc.eu/2023-challenge)
+- **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - Representing the Portuguese team as a member, in the European CTF (Jeopardy and Attack-Defense) competition, which took place in Hamar, Norway. [ECSC 2023](https://ecsc.eu/2023-challenge)
 
 - **TOPAS LX** - \[May 2023\] - Participation in the annual programming competition organized by the Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Rankings - in Portuguese](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
 
@@ -87,10 +87,37 @@ I love learning new things, I'm always learning something new...
 
 - **Listening to music** - I spend my time listening to music of all kinds (from classical to rock, from jazz to electronic).
 
-- **Open-Source** - I'm in favor of a free Internet and the democratic use of software for non-commercial purposes.
+- **Open-Source** - I'm in favour of a free Internet and the democratic use of software for non-commercial purposes.
 
 - **Photography** - I like to express the way I see the world around me through photography.
 
-- **Programming and cybersecurity** - I like to create my own programs and explore the limits of digital security.
+- **Programming and cybersecurity** - I like to create my programs and explore the limits of digital security.
 
 I love trying something new, especially if it has something to do with technology. I love the idea of being challenged with something I've never explored before...
+
+## Currently 
+- Living in France with my family, and a rescued dog.
+- I'm taking a break between secondary school and university because I didn't like the course I started at university.
+  - So I'm looking for some interesting work, preferably in the IT field.
+
+Since I moved to France recently, I've been learning French :fr:
+
+### :book: Books
+
+{{< progress
+  in-progress="Project Hail Mary | 11% | /images/about/project-hail-mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary?edition=key%3A/books/OL32569151M, How to hack like a ghost | 0% | /images/about/how-to-hack-like-a-ghost.webp | https://openlibrary.org/works/OL24482043W/How_to_Hack_Like_a_Ghost?edition=key%3A/books/OL32434769M"
+>}}
+
+### :tv: Last Seen
+
+#### Movies
+
+{{< progress
+  in-progress="La Ch'tite Famille | 100% | /images/about/movie-1.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/movie-2.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/movie-3.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/movie-4.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu, Knives Out | 100% | /images/about/movie-5.webp | https://www.themoviedb.org/movie/546554-knives-out"
+>}}
+
+#### TV Shows
+
+{{< progress
+  in-progress="Cosmos | 8% | /images/about/tv-show-1.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/tv-show-2.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/tv-show-3.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/tv-show-4.webp | https://www.themoviedb.org/tv/95403-the-peripheral, Black Mirror | 100% | /images/about/tv-show-5.webp | https://www.themoviedb.org/tv/42009-black-mirror"
+>}}

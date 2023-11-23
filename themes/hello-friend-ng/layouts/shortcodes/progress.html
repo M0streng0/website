@@ -1,0 +1,24 @@
+{{ with .Get "in-progress" }}
+    {{ $numProgress := len . }}
+    <div class="progress-container">
+        {{ range $index, $progress := split . ", " }}
+            {{ $info := split $progress " | " }}
+            {{ $title := index $info 0 }}
+            {{ $progress := index $info 1 }}
+            {{ $image := index $info 2 }}
+            {{ $link := index $info 3 }}
+
+            <div class="progress">
+                <a href="{{ $link }}" target="_blank">
+                    <div class="image-container">
+                        <img src="{{ $image }}" alt="{{ $title }}">
+                        <div class="progress-bar" style="width:{{ $progress }}; {{ if eq $progress "100%" }}background-color: #a3be8c;{{ end }}"></div>
+                    </div>
+                </a>
+                <div class="progress-info">
+                    <p>{{ $title }}</p>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+{{ end }}

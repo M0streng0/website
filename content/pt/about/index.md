@@ -8,7 +8,7 @@ draft: false
 ---
 ## Sou o Henrique Oliveira
 
-{{< about image="/images/about.webp" alt="Imagem de mim, a ler um livro (Altered Carbon, de Richard K. Morgan), enquanto ouço música através dos meus auscultadores Sony." >}}
+{{< about image="/images/about/about.webp" alt="Imagem de mim, a ler um livro (Altered Carbon, de Richard K. Morgan), enquanto ouço música através dos meus auscultadores Sony." >}}
 Um _estudante_, _programador_, e _hacker_.
 
 Mas, acima de tudo, sou apenas um _humano_ curioso que abraça o mundo digital.
@@ -91,6 +91,33 @@ Adoro aprender coisas novas, estou sempre a aprender algo novo...
 
 - **Fotografia** - Gosto de expressar a forma como vejo o mundo à minha volta através da fotografia.
 
-- **Programação e cibersegurança** - Gosto de criar os meus próprios programas e de explorar os limites da segurança digital.
+- **Programação e cibersegurança** - Gosto de criar os meus programas e de explorar os limites da segurança digital.
 
 Adoro experimentar algo novo, especialmente se tiver algo a ver com tecnologia. Adoro a ideia de ser desafiado com algo que nunca explorei antes...
+
+## Atualmente 
+- Vivo em França com a minha família e um cão resgatado.
+- Estou a fazer uma pausa entre o ensino secundário e a universidade porque não gostei do curso que comecei na universidade.
+  - Por isso, estou à procura de um trabalho interessante, de preferência no domínio da informática.
+
+Desde que me mudei recentemente para França, tenho estado a aprender francês :fr:
+
+### :book: Livros
+
+{{< progress
+  in-progress="Project Hail Mary | 11% | /images/about/project-hail-mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary?edition=key%3A/books/OL32569151M, How to hack like a ghost | 0% | /images/about/how-to-hack-like-a-ghost.webp | https://openlibrary.org/works/OL24482043W/How_to_Hack_Like_a_Ghost?edition=key%3A/books/OL32434769M"
+>}}
+
+### :tv: Últimos vistos
+
+#### Filmes
+
+{{< progress
+  in-progress="La Ch'tite Famille | 100% | /images/about/movie-1.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/movie-2.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/movie-3.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/movie-4.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu, Knives Out | 100% | /images/about/movie-5.webp | https://www.themoviedb.org/movie/546554-knives-out"
+>}}
+
+#### Séries de TV
+
+{{< progress
+  in-progress="Cosmos | 8% | /images/about/tv-show-1.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/tv-show-2.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/tv-show-3.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/tv-show-4.webp | https://www.themoviedb.org/tv/95403-the-peripheral, Black Mirror | 100% | /images/about/tv-show-5.webp | https://www.themoviedb.org/tv/42009-black-mirror"
+>}}

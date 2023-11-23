@@ -8,14 +8,14 @@ draft: false
 ---
 ## Je suis Henrique Oliveira
 
-{{< about image="/images/about.webp" alt="Image de moi, lisant un livre (Altered Carbon, de Richard K. Morgan), tout en écoutant de la musique dans mes écouteurs Sony." >}}
+{{< about image="/images/about/about.webp" alt="Image de moi, lisant un livre (Altered Carbon, de Richard K. Morgan), tout en écoutant de la musique dans mes écouteurs Sony." >}}
 Un _étudiant_, _programmeur_, et _hacker_.
 
 Mais avant tout, je ne suis qu'un _humain_ curieux qui embrasse le monde numérique.
 
-Qu'il s'agisse de plonger dans les univers cyberpunk de la science-fiction ou d'explorer divers genres musicaux, mes centres d'intérêt vont au-delà du code. Plaidant pour un internet libre et démocratique, je contribue au mouvement open-source, mêlant mon amour pour la technologie à une passion pour les arts, exprimée à travers la photographie.
+Qu'il s'agisse de plonger dans les univers cyberpunks de la science-fiction ou d'explorer divers genres musicaux, mes centres d'intérêt vont au-delà du code. Plaidant pour un internet libre et démocratique, je contribue au mouvement open source, mêlant mon amour pour l'informatique à une passion pour les arts, exprimée à travers la photographie.
 
-Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de l'inexploration. Qu'il s'agisse de créer du code, de tester les limites de la cybersécurité ou de relever des défis dans divers domaines technologiques, mon parcours est une fusion de créativité et d'innovation. Rejoignez-moi pour capturer l'essence de cette intersection dynamique, où chaque exploration révèle le potentiel illimité du monde numérique.
+Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de l'exploration. Qu'il s'agisse de créer du code, de tester les limites de la cybersécurité ou de relever des défis dans divers domaines technologiques, mon parcours est une fusion de créativité et d'innovation. Rejoignez-moi pour capturer l'essence de cette intersection dynamique, où chaque exploration révèle le potentiel illimité du monde numérique.
 
 **Bienvenue dans mon espace numérique où l'humain et le virtuel convergent.**
 {{< /about >}}
@@ -70,7 +70,7 @@ J'adore apprendre de nouvelles choses, je suis toujours en train d'apprendre que
 ### Compétitions
 - **ECSC 2023** - \[2023\] - European CyberSecurity Challenge 2023 - J'ai représenté l'équipe portugaise en tant que membre de la compétition européenne CTF (Jeopardy et Attack-Defense), qui s'est déroulée à Hamar, en Norvège. [ECSC 2023](https://ecsc.eu/2023-challenge)
 
-- **TOPAS LX** - \[Mai 2023\] - Participation au concours annuel de programmation organisé par l'Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Classement - en portugais](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
+- **TOPAS LX** - \[Mai 2023\] - Participation au concours annuel de programmation organisée par l'Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologias. [Classement - en portugais](https://eventos.fct.unl.pt/topas-lx/pages/classificacao-2023)
 
 ### Certificats
 - **OPSWAT File Security Associate** - \[novembre 2022\] - J'ai suivi le cours OFSA à l'Académie OPSWAT. (Concepts de logiciels malveillants - Systèmes vulnérables - Techniques d'analyse - Analyse en ligne). [Certificat](https://learn.opswatacademy.com/certificate/4pbY8cSicg)
@@ -91,6 +91,33 @@ J'adore apprendre de nouvelles choses, je suis toujours en train d'apprendre que
 
 - **Photographie** - J'aime exprimer la façon dont je vois le monde qui m'entoure à travers la photographie.
 
-- **Programmation et cybersécurité** - J'aime créer mes propres programmes et explorer les limites de la sécurité numérique.
+- **Programmation et cybersécurité** - J'aime créer mes programmes et explorer les limites de la sécurité numérique.
 
-J'aime essayer quelque chose de nouveau, surtout si cela a un rapport avec la technologie. J'aime l'idée d'être mis au défi avec quelque chose que je n'ai jamais exploré auparavant...
+J'aime essayer quelque chose de nouveau, surtout si cela a un rapport avec l'informatique. J'aime l'idée d'être mis au défi avec quelque chose que je n'ai jamais exploré auparavant...
+
+## Actuellement 
+- Je vis en France avec ma famille et un chien que qu'on a sauvés.
+- Je fais une pause entre l'école secondaire et l'université parce que je n'ai pas aimé le cours que j'ai commencé à l'université.
+  - Je suis donc à la recherche d'un travail intéressant, de préférence dans le domaine de l'informatique.
+
+Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
+
+### :book: Livres
+
+{{< progress
+  in-progress="Project Hail Mary | 11% | /images/about/project-hail-mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary?edition=key%3A/books/OL32569151M, How to hack like a ghost | 0% | /images/about/how-to-hack-like-a-ghost.webp | https://openlibrary.org/works/OL24482043W/How_to_Hack_Like_a_Ghost?edition=key%3A/books/OL32434769M"
+>}}
+
+### :tv: Dernières vues
+
+#### Films
+
+{{< progress
+  in-progress="La Ch'tite Famille | 100% | /images/about/movie-1.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/movie-2.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/movie-3.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/movie-4.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu, Knives Out | 100% | /images/about/movie-5.webp | https://www.themoviedb.org/movie/546554-knives-out"
+>}}
+
+#### Émissions télévisées
+
+{{< progress
+  in-progress="Cosmos | 8% | /images/about/tv-show-1.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/tv-show-2.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/tv-show-3.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/tv-show-4.webp | https://www.themoviedb.org/tv/95403-the-peripheral, Black Mirror | 100% | /images/about/tv-show-5.webp | https://www.themoviedb.org/tv/42009-black-mirror"
+>}}
