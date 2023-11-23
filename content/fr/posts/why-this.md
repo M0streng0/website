@@ -36,7 +36,7 @@ Une bonne vidéo que je recommande est celle de Chris Titus, qui parle de son ap
 
 ### Hugo - Apparence
 
-Un grand avantage de l'utilisation de Hugo est que vous pouvez trouver des dizaines et des dizaines de thèmes de sites web avec tous les fichiers déjà pré-construits, ce qui est spectaculaire ! [Où vous pouvez trouver des thèmes...](https://themes.gohugo.io/)
+Un grand avantage de l'utilisation de Hugo est que vous pouvez trouver des dizaines et des dizaines de thèmes de sites web avec tous les fichiers déjà préconstruits, ce qui est spectaculaire ! [Où vous pouvez trouver des thèmes...](https://themes.gohugo.io/)
 
 Mais j'aime apprendre à le faire, alors j'ai pris un thème que j'aimais bien ([hello-friend-ng](https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/)), et je l'ai personnalisé à ma façon...
 
@@ -46,7 +46,7 @@ Mais j'aime apprendre à le faire, alors j'ai pris un thème que j'aimais bien (
   - Texte en colonnes (visible sur la page [Sur Moi](/fr/about)).
   - Ajout d'une fonctionnalité de rendu du langage mathématique.
 
-Si vous êtes intéressé par mon thème, vous pouvez voir les fichiers sur [Github](https://github.com/M0streng0/website)
+Si vous êtes intéressé par mon thème, vous pouvez voir les fichiers sûrs [Github](https://github.com/M0streng0/website)
 
 Mais l'intégralité de la page originale a été conservée, car elle était déjà très bien faite !
 

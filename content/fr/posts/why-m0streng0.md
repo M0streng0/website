@@ -106,7 +106,7 @@ Voici quelques représentations du mostrengo :
 
 Oui, vous avez raison... Jusqu'à présent, il n'était question que de l'histoire derrière le nom _mostrengo_ et non de sa raison d'être.
 
-En portugais, nous étudions les œuvres de Fernando Pessoa, dont le poème _O Mostrengo_. Et la vérité est que c'est précisément à ce moment-là qu'est apparu le pesudonyme _mostrengo_, qui est devenu plus tard _m0streng0_.
+En portugais, nous étudions les œuvres de Fernando Pessoa, dont le poème _O Mostrengo_. Et la vérité est que c'est précisément à ce moment-là qu'est apparu le pseudonyme _mostrengo_, qui est devenu tard plusieurs _m0streng0_.
 
 Mon meilleur ami et moi étions en train de tester un nouveau jeu Battleship sur nos téléphones portables, et nous devions choisir un pseudonyme. J'ai donc instinctivement choisi **_mostrengo_** et mon ami **_adamastor_** (le même mostrengo marin, mais d'un autre auteur - Luís de Camões, dans _Os Lusíadas_ - 1572).
 
