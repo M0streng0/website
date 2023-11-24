@@ -119,5 +119,5 @@ Since I moved to France recently, I've been learning French :fr:
 #### TV Shows
 
 {{< progress
-  in-progress="The Man in the High Castle | 5% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="The Man in the High Castle | 15% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}
