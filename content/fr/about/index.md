@@ -113,11 +113,11 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 #### Films
 
 {{< progress
-  in-progress="La Ch'tite Famille | 100% | /images/about/La-Chtite-Famille.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/Bienvenue-chez-les-Chtis.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/Minions_The-Rise-of-Gru.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/Asterix-et-Obelix_L-Empire-du-Milieu.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu, Knives Out | 100% | /images/about/Knives-Out.webp | https://www.themoviedb.org/movie/546554-knives-out"
+  in-progress="Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2, La Ch'tite Famille | 100% | /images/about/La-Chtite-Famille.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/Bienvenue-chez-les-Chtis.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/Minions_The-Rise-of-Gru.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/Asterix-et-Obelix_L-Empire-du-Milieu.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu"
 >}}
 
 #### Émissions télévisées
 
 {{< progress
-  in-progress="The Man in the High Castle | 15% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="The Man in the High Castle | 25% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}
