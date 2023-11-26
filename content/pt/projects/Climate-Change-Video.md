@@ -4,10 +4,10 @@ author:
 title: Alterações Climáticas
 date: 2021-03-11
 type: ["projects"]
-categories: ["School"]
+categories: ["Escola"]
 tags:
-  - Climate Change
-  - Videos
+  - Alterações Climáticas
+  - Vídeos
 draft: false
 ---
 ## Video

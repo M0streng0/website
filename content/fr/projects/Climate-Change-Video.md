@@ -3,8 +3,8 @@ author:
   name: "Henrique Oliveira"
 title: Changement climatique
 date: 2021-03-11
-type: ["projets"]
-categories: ["École"]
+type: ["projects"]
+categories: ["School"]
 tags:
   - Changement climatique
   - Vidéos
