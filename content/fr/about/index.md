@@ -28,7 +28,7 @@ Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de 
   - Shell
   - Un peu de C
   - JavaScript
-  - Un peu d'Arduino (j'aimerais essayer plus de matériel)
+  - Un peu d'Arduino (j'aimerais essayer plus d'hardware)
 
 - **Cybersécurité**
   - Outils les plus utilisés (Burpsuite, Metasploit, Sqlmap...)
@@ -44,7 +44,7 @@ Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de 
 
 - **Créatif**
   - After Effects
-  - Illustrateur
+  - Illustrator
   - Photoshop
   - Premiere Pro
   - Blender
