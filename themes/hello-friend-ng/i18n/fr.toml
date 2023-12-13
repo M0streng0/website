@@ -37,3 +37,17 @@ other = "{{ .Count }} Mots"
 
 [lastModified]
 other = "Mise à jour"
+
+
+# shortcode - quiz
+[optionCorrect]
+other = "Correct!"
+
+[optionIncorrect]
+other = "Incorrect. L’option correcte est "
+
+[checkAnswer]
+other = "Vérifier la Réponse"
+
+[anotherOption]
+other = "Veuillez sélectionner une option."

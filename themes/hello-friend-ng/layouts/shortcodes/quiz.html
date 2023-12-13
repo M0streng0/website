@@ -1,0 +1,77 @@
+<!-- HTML CODE -->
+<div class="quiz-container">
+  {{ $question := .Get "question" }}
+  {{ $options := split .Inner "\n" }}
+  {{ $correctOption := .Get "correctOption" }}
+
+  <p>{{ $question }}</p>
+  <form id="quizForm" data-correct-option="{{ $correctOption }}">
+    {{ range $index, $option := $options }}
+      {{ $parts := split $option "|" }}
+      {{ with index $parts 0 }}
+        {{ $trimmedOption := trim . " " }}
+        {{ if ne $trimmedOption "" }}
+          {{ $optionID := printf "option%s" (add $index 65) }}
+          <label>
+            <input type="radio" name="answer" id="{{ $optionID }}" value="{{ $index }}">
+            {{ $trimmedOption }}
+          </label><br>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </form>
+
+  <button onclick="checkAnswer.call(this)" id="checkButton">{{ i18n "checkAnswer" }}</button>
+
+  <p id="result"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+
+<!-- JAVA SCRIPT -->
+<script>
+function checkAnswer() {
+  var checkButton = document.getElementById("checkButton");
+
+  if (checkButton.disabled) {
+    return; // Do nothing if the button is already disabled
+  }
+
+  var selectedOption = document.querySelector('input[name="answer"]:checked');
+  if (selectedOption) {
+    var userAnswer = selectedOption.nextSibling.textContent.trim();
+    var correctOption = document.getElementById("quizForm").getAttribute("data-correct-option").trim();
+    
+    if (userAnswer === correctOption) {
+      document.getElementById("result").innerHTML = "{{ i18n "optionCorrect" }}";
+      triggerConfetti(this); // Pass the button reference
+    } else {
+      document.getElementById("result").innerHTML = "{{ i18n "optionIncorrect" }}" + correctOption + ".";
+    }
+
+    var radioButtons = document.querySelectorAll('input[name="answer"]');
+    radioButtons.forEach(function(button) {
+      button.disabled = true;
+    });
+
+    // Disable the "Check Answer" button after checking the answer
+    checkButton.disabled = true;
+  } else {
+    document.getElementById("result").innerHTML = "{{ i18n "anotherOption" }}";
+  }
+}
+
+function triggerConfetti(button) {
+  var rect = button.getBoundingClientRect();
+  var originX = rect.left + rect.width / 2;
+  var originY = rect.top + rect.height / 2;
+
+  console.log('Origin X:', originX, 'Origin Y:', originY);
+
+  confetti({
+    particleCount: 100,
+    spread: 100,
+    origin: { x: originX / window.innerWidth, y: originY / window.innerHeight }
+  });
+}
+</script>
