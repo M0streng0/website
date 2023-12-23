@@ -97,8 +97,7 @@ Adoro experimentar algo novo, especialmente se tiver algo a ver com tecnologia. 
 
 ## Atualmente 
 - Vivo em França com a minha família e um cão resgatado.
-- Estou a fazer uma pausa entre o ensino secundário e a universidade porque não gostei do curso que comecei na universidade.
-  - Por isso, estou à procura de um trabalho interessante, de preferência no domínio da informática.
+- Eu comecei o ano letivo num curso universitário, mas não estava a gostar do curso. Tive a oportunidade de mudar para melhor! Neste momento sou aluno de Matemática-Informatica na Universidade Paris Cité, em Paris.
 
 Desde que me mudei recentemente para França, tenho estado a aprender francês :fr:
 
@@ -113,11 +112,11 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Filmes
 
 {{< progress
-  in-progress="Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2, La Ch'tite Famille | 100% | /images/about/La-Chtite-Famille.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/Bienvenue-chez-les-Chtis.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/Minions_The-Rise-of-Gru.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru, Astérix & Obélix : L'Empire du Milieu | 100% | /images/about/Asterix-et-Obelix_L-Empire-du-Milieu.webp | https://www.themoviedb.org/movie/643215-asterix-obelix-l-empire-du-milieu"
+  in-progress="Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo , Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2, La Ch'tite Famille | 100% | /images/about/La-Chtite-Famille.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/Bienvenue-chez-les-Chtis.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/Minions_The-Rise-of-Gru.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru"
 >}}
 
 #### Séries de TV
 
 {{< progress
-  in-progress="The Man in the High Castle | 25% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="The Man in the High Castle | 52% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}
