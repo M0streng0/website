@@ -104,7 +104,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 ### :book: Livres
 
 {{< progress
-  in-progress="Project Hail Mary | 11% | /images/about/project-hail-mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary?edition=key%3A/books/OL32569151M, How to hack like a ghost | 0% | /images/about/how-to-hack-like-a-ghost.webp | https://openlibrary.org/works/OL24482043W/How_to_Hack_Like_a_Ghost?edition=key%3A/books/OL32434769M"
+  in-progress="Blade runner - Les androïdes rêvent-ils de moutons électriques ? | 2% | /images/about/Blade-Runner.webp | https://openlibrary.org/books/OL39218075M/Blade_runner, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Dernières vues
@@ -112,7 +112,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 #### Films
 
 {{< progress
-  in-progress="Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo , Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2, La Ch'tite Famille | 100% | /images/about/La-Chtite-Famille.webp | https://www.themoviedb.org/movie/456165-la-ch-tite-famille, Bienvenue chez les Ch'tis | 100% | /images/about/Bienvenue-chez-les-Chtis.webp | https://www.themoviedb.org/movie/8265-bienvenue-chez-les-ch-tis, Minions: The Rise of Gru | 100% | /images/about/Minions_The-Rise-of-Gru.webp | https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru"
+  in-progress="Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun, Live and Let Die | 100% | /images/about/Live-and-Let-Die.webp | https://www.themoviedb.org/movie/253-live-and-let-die, Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo , Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2"
 >}}
 
 #### Émissions télévisées
