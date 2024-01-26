@@ -104,7 +104,7 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 ### :book: Livros
 
 {{< progress
-  in-progress="Blade runner - Les androïdes rêvent-ils de moutons électriques ? | 2% | /images/about/Blade-Runner.webp | https://openlibrary.org/books/OL39218075M/Blade_runner, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Solaris | 17% | /images/about/solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Blade runner - Les androïdes rêvent-ils de moutons électriques ? | 2% | /images/about/Blade-Runner.webp | https://openlibrary.org/books/OL39218075M/Blade_runner, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Últimos vistos
@@ -118,5 +118,5 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Séries de TV
 
 {{< progress
-  in-progress="The Man in the High Castle | 52% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="The Man in the High Castle | 85% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Cosmos | 8% | /images/about/Cosmos.webp | https://www.themoviedb.org/tv/58474-cosmos, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}
