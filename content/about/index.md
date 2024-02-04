@@ -104,7 +104,7 @@ Since I moved to France recently, I've been learning French :fr:
 ### :book: Books
 
 {{< progress
-  in-progress="Solaris | 56% | /images/about/solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Blade runner - Les androïdes rêvent-ils de moutons électriques ? | 2% | /images/about/Blade-Runner.webp | https://openlibrary.org/books/OL39218075M/Blade_runner, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Solaris | 56% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Blade runner - Les androïdes rêvent-ils de moutons électriques ? | 2% | /images/about/Blade-Runner.webp | https://openlibrary.org/books/OL39218075M/Blade_runner, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Last Seen
