@@ -4,7 +4,7 @@ author:
 title: {{ replace .Name "-" " " | title }}
 date: {{ .Date }}
 type: ["about","posts","projects"]
-categories: ["Linux","Creative","School","Random"]
+categories: ["Linux","Creative","School","Random", "Server"]
 tags:
   - untagged
 # math: katex
