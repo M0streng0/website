@@ -1,7 +1,7 @@
 ---
 author: 
   name: "Henrique Oliveira"
-title: Mon Serveur
+title: Mon Serveur - Raspberry Pi 4
 date: 2024-02-09T15:56:28+01:00
 type: ["posts"]
 categories: ["Linux", "Server"]
