@@ -112,7 +112,7 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Filmes
 
 {{< progress
-  in-progress="Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun, Live and Let Die | 100% | /images/about/Live-and-Let-Die.webp | https://www.themoviedb.org/movie/253-live-and-let-die, Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo , Murder Mystery 2 | 100% | /images/about/Murder-Mystery-2.webp | https://www.themoviedb.org/movie/638974-murder-mystery-2"
+  in-progress="The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun, Live and Let Die | 100% | /images/about/Live-and-Let-Die.webp | https://www.themoviedb.org/movie/253-live-and-let-die, Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo"
 >}}
 
 #### Séries de TV
