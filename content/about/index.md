@@ -56,6 +56,8 @@ In this digital haven, I thrive on the thrill of the new and unexplored. Whether
 ## Education
 I love learning new things, I'm always learning something new...
 
+- **University** - \[2023 - In progress\] Paris Cité - Bachelor's degree in Mathematics-Computer Science. [University web page](https://math-info.u-paris.fr/)
+
 - **Cybersecurity** - \[2021 - In progress\] Tryhackme - Self-learning in cybersecurity. Several CTF (Capture-The-Flag). [My Profile](https://tryhackme.com/p/M0streng0)
 
 - **High School** - \[2020 - 2023\] Escola Anselmo de Andrade - Science course (Portuguese, English, Philosophy, Physical Education, Mathematics, Physics, Chemistry, Biology and Geology)
@@ -104,7 +106,7 @@ Since I moved to France recently, I've been learning French :fr:
 ### :book: Books
 
 {{< progress
-  in-progress="Será que os androides sonham com ovelhas elétricas? | 51% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Será que os androides sonham com ovelhas elétricas? | 68% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Last Seen

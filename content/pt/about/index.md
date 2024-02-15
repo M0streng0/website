@@ -56,6 +56,8 @@ Neste paraíso digital, sinto-me entusiasmado com a emoção do novo e do inexpl
 ## Educação
 Adoro aprender coisas novas, estou sempre a aprender algo novo...
 
+- **Universidade** - \[2023 - Em curso\] Paris Cité - Licenciatura em Matemática e Ciência da Computação. [Página web da Universidade](https://math-info.u-paris.fr/)
+
 - **Cibersegurança** - \[2021 - Em curso\] Tryhackme - Auto-aprendizagem em cibersegurança. Vários CTF (Capture-The-Flag). [Meu Perfil](https://tryhackme.com/p/M0streng0)
 
 - **Ensino Secundário** - \[2020 - 2023\] Escola Anselmo de Andrade - Curso de Ciências (Português, Inglês, Filosofia, Educação Física, Matemática, Física, Química, Biologia e Geologia)

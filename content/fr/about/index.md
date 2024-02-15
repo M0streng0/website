@@ -1,7 +1,7 @@
 ---
 author: 
   name: "Henrique Oliveira"
-title: About
+title: Sur Moi
 date: 2023-11-18
 type: ["about"]
 draft: false
@@ -56,6 +56,8 @@ Dans ce havre numérique, je m'épanouis dans le frisson de la nouveauté et de 
 ## Éducation
 J'adore apprendre de nouvelles choses, je suis toujours en train d'apprendre quelque chose de nouveau...
 
+- **Université** - \[2023 - En cours\] Paris Cité - Licence en Mathématiques-Informatique. [Page web de l'Université](https://math-info.u-paris.fr/)
+
 - **Cybersécurité** - \[2021 - En cours\] Tryhackme - Auto-apprentissage en cybersécurité. Plusieurs CTF (Capture-The-Flag). [Mon profil](https://tryhackme.com/p/M0streng0)
 
 - **École secondaire** - \[2020 - 2023\] Escola Anselmo de Andrade - Cours de sciences (portugais, anglais, philosophie, éducation physique, mathématiques, physique, chimie, biologie et géologie)
@@ -104,7 +106,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 ### :book: Livres
 
 {{< progress
-  in-progress="Será que os androides sonham com ovelhas elétricas? | 51% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Será que os androides sonham com ovelhas elétricas? | 68% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Dernières vues
