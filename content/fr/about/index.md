@@ -114,7 +114,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 #### Films
 
 {{< progress
-  in-progress="The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun, Live and Let Die | 100% | /images/about/Live-and-Let-Die.webp | https://www.themoviedb.org/movie/253-live-and-let-die, Leo | 100% | /images/about/Leo.webp | https://www.themoviedb.org/movie/1075794-leo"
+  in-progress="Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun, Live and Let Die | 100% | /images/about/Live-and-Let-Die.webp | https://www.themoviedb.org/movie/253-live-and-let-die"
 >}}
 
 #### Émissions télévisées
