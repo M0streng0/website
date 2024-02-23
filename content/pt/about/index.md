@@ -114,11 +114,11 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Filmes
 
 {{< progress
-  in-progress="Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu, The Man with the Golden Gun | 100% | /images/about/The-Man-with-the-Golden-Gun.webp | https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun"
+  in-progress="Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu"
 >}}
 
 #### Séries de TV
 
 {{< progress
-  in-progress="Macgyver | 3% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="Macgyver | 13% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}
