@@ -106,7 +106,7 @@ Since I moved to France recently, I've been learning French :fr:
 ### :book: Books
 
 {{< progress
-  in-progress="Neuromancer | 6% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Neuromancer | 8% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Last Seen
@@ -120,5 +120,5 @@ Since I moved to France recently, I've been learning French :fr:
 #### TV Shows
 
 {{< progress
-  in-progress="Macgyver | 66% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
+  in-progress="Macgyver | 88% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin, The Peripheral | 100% | /images/about/The-Peripheral.webp | https://www.themoviedb.org/tv/95403-the-peripheral"
 >}}

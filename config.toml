@@ -129,6 +129,10 @@ disableHugoGeneratorInject = false
     name = "discord"
     url  = "https://discordapp.com/users/688373662310596649"
 
+  [[params.social]]
+    name = "listenbrainz"
+    url = "https://listenbrainz.org/user/M0streng0/"
+
 [languages]
   # ENGLISH
   [languages.en]
