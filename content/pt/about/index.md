@@ -114,7 +114,7 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Filmes
 
 {{< progress
-  in-progress="Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator, Qu'est-ce qu'ils ont fait au bon Dieu? | 100% | /images/about/Qu_est_ce-qu_ils-ont-fait-au-bon-Dieu.webp | https://www.themoviedb.org/movie/578905-qu-est-ce-qu-ils-ont-fait-au-bon-dieu"
+  in-progress="Anon | 100% | /images/about/Anon.webp | https://www.themoviedb.org/movie/396806-anon, Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator"
 >}}
 
 #### Séries de TV
