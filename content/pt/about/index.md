@@ -114,7 +114,7 @@ Desde que me mudei recentemente para França, tenho estado a aprender francês :
 #### Filmes
 
 {{< progress
-  in-progress="Anon | 100% | /images/about/Anon.webp | https://www.themoviedb.org/movie/396806-anon, Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka, The Creator | 100% | /images/about/The-Creator.webp | https://www.themoviedb.org/movie/670292-the-creator"
+  in-progress="La Vie pour de Vrai | 100% | /images/about/La-Vie-pour-de-Vrai.webp | https://www.themoviedb.org/movie/967370-la-vie-pour-de-vrai, Anon | 100% | /images/about/Anon.webp | https://www.themoviedb.org/movie/396806-anon, Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka"
 >}}
 
 #### Séries de TV
