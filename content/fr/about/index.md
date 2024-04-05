@@ -106,7 +106,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 ### :book: Livres
 
 {{< progress
-  in-progress="Neuromancer | 15% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Neuromancer | 28% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Dernières vues
@@ -114,7 +114,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 #### Films
 
 {{< progress
-  in-progress="La Vie pour de Vrai | 100% | /images/about/La-Vie-pour-de-Vrai.webp | https://www.themoviedb.org/movie/967370-la-vie-pour-de-vrai, Anon | 100% | /images/about/Anon.webp | https://www.themoviedb.org/movie/396806-anon, Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel, Wonka | 100% | /images/about/Wonka.webp | https://www.themoviedb.org/movie/787699-wonka"
+  in-progress="Blade Runner | 100% | /images/about/Blade-Runner.webp | https://www.themoviedb.org/movie/78-blade-runner, La Vie pour de Vrai | 100% | /images/about/La-Vie-pour-de-Vrai.webp | https://www.themoviedb.org/movie/967370-la-vie-pour-de-vrai, Anon | 100% | /images/about/Anon.webp | https://www.themoviedb.org/movie/396806-anon, Tenet | 100% | /images/about/Tenet.webp | https://www.themoviedb.org/movie/577922-tenet, Alita: Battle Angel | 100% | /images/about/Alita-Battle-Angel.webp | https://www.themoviedb.org/movie/399579-alita-battle-angel"
 >}}
 
 #### Émissions télévisées
