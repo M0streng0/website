@@ -120,5 +120,5 @@ Since I moved to France recently, I've been learning French :fr:
 #### TV Shows
 
 {{< progress
-  in-progress="Philip K. Dick's Electric Dreams | 30% | /images/about/Electric-Dreams.webp | https://www.themoviedb.org/tv/70391-philip-k-dick-s-electric-dreams, Macgyver | 100% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin"
+  in-progress="Philip K. Dick's Electric Dreams | 80% | /images/about/Electric-Dreams.webp | https://www.themoviedb.org/tv/70391-philip-k-dick-s-electric-dreams, Macgyver | 100% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle, Almost Human | 100% | /images/about/Almost-Human.webp | https://www.themoviedb.org/tv/51019-almost-human, Lupin | 100% | /images/about/Lupin.webp | https://www.themoviedb.org/tv/96677-lupin"
 >}}
