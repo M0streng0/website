@@ -106,7 +106,7 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 ### :book: Livres
 
 {{< progress
-  in-progress="Neuromancer | 57% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
+  in-progress="Neuromancer | 60% | /images/about/Neuromancer.webp | https://openlibrary.org/works/OL27258W/Neuromancer, Project Hail Mary | 100% | /images/about/Project-Hail-Mary.webp | https://openlibrary.org/works/OL21745884W/Project_Hail_Mary, Será que os androides sonham com ovelhas elétricas? | 100% | /images/about/Ovelhas-eletricas.webp | https://openlibrary.org/works/OL2172356W/Do_Androids_Dream_of_Electric_Sheep, Solaris | 100% | /images/about/Solaris.webp | https://openlibrary.org/books/OL47068415M/Solaris, Carbono Alterado | 100% | /images/about/Carbono-Alterado.webp | https://openlibrary.org/works/OL6835844W/Carbono_Alterado?edition=key%3A/books/OL47315600M"
 >}}
 
 ### :tv: Dernières vues
@@ -120,5 +120,5 @@ Depuis que j'ai déménagé en France récemment, j'apprends le français. :fr:
 #### Émissions télévisées
 
 {{< progress
-  in-progress="Fallout | 100% | /images/about/Fallout.webp | https://www.themoviedb.org/tv/106379-fallout, Brave New World | 100% | /images/about/Brave-New-World.webp | https://www.themoviedb.org/tv/93289-brave-new-world, Philip K. Dick's Electric Dreams | 100% | /images/about/Electric-Dreams.webp | https://www.themoviedb.org/tv/70391-philip-k-dick-s-electric-dreams, Macgyver | 100% | /images/about/Macgyver.webp | https://www.themoviedb.org/tv/67133-macgyver, The Man in the High Castle | 100% | /images/about/The-Man-in-the-High-Castle.webp | https://www.themoviedb.org/tv/62017-the-man-in-the-high-castle"
+  in-progress="Snowpiercer | 100% | /images/about/Snowpiercer.webp | https://www.themoviedb.org/tv/79680-snowpiercer, Severance | 100% | /images/about/Severance.webp | https://www.themoviedb.org/tv/95396-severance, Silo | 100% | /images/about/Silo.webp | https://www.themoviedb.org/tv/125988-silo, Fallout | 100% | /images/about/Fallout.webp | https://www.themoviedb.org/tv/106379-fallout, Brave New World | 100% | /images/about/Brave-New-World.webp | https://www.themoviedb.org/tv/93289-brave-new-world"
 >}}
