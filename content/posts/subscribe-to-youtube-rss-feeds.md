@@ -16,7 +16,7 @@ draft: false
 ---
 ## What is the main purpose?
 
-I don't have the YouTube app installed on my Android devices (nor do I use it directl
+I don't have the YouTube app installed on my Android devices (nor do I use it directly)
 so in order to watch my favourite channels, I use alternative front-ends such as
 `LibreTube` and `NewPipe`.
 
